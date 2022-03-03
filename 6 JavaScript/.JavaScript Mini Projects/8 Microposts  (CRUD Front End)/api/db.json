@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "Batel is a Vampire",
+      "body": "A creature from Hell that subsists by feeding on the vital essence",
+      "id": 1
+    },
+    {
+      "title": "Tohar is a Centaurs",
+      "body": "Centaurs have the body of a horse with the head and chest of a human.",
+      "id": 2
+    },
+    {
+      "title": "Rita is a Mermaid",
+      "body": "She can  transform into human form and marry humans",
+      "id": 3
+    }
+  ]
+}
